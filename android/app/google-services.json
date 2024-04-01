@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162838954356",
+    "project_id": "triptrop0-f23b2",
+    "storage_bucket": "triptrop0-f23b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162838954356:android:e82bc922469f93a163ec21",
+        "android_client_info": {
+          "package_name": "com.troptrip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG5sjKI2YitQwcqB6Kl12DqlCcrMBdSNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
